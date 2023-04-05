@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageContainer.d.ts","sourceRoot":"","sources":["../../../../../src/webparts/simplePoll/components/MessageContainer/MessageContainer.tsx"],"names":[],"mappings":";AAIA,OAAO,EAAE,YAAY,EAAE,MAAM,+BAA+B,CAAC;AAE7D,MAAM,WAAW,sBAAsB;IACnC,OAAO,CAAC,EAAE,MAAM,CAAC;IACjB,YAAY,EAAE,YAAY,CAAC;CAC9B;AAED,MAAM,CAAC,OAAO,UAAU,gBAAgB,CAAC,KAAK,EAAE,sBAAsB,eA6BrE"}
